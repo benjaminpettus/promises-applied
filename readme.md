@@ -57,7 +57,7 @@ Promises provide a simpler alternative for executing, composing, and managing as
   - [x] Exercise 4
   - [x] Exercise 5
   - [x] Exercise 6
-  - [x] Exercise 7
+  - [ ] Exercise 7
 
 ### Stretch
 - [x] Read Google's [Introduction](https://developers.google.com/web/fundamentals/getting-started/primers/promises) to Promises
